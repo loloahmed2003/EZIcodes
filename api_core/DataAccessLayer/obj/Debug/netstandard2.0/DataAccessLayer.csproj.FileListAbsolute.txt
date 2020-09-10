@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb

@@ -1,0 +1,11 @@
+--1 //for angular
+run command -> npm install
+
+--if this exception occured
+An unhandled exception occurred: Could not find module "@angular-devkit/build-angular"
+run command -> ng update
+--if still occured
+run command -> npm install --save-dev @angular-devkit/build-angular
+
+--2 //for api
+Restore NuGet Packages

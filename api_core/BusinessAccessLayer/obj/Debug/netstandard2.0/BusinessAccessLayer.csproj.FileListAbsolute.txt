@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\BusinessAccessLayer\bin\Debug\netstandard2.0\BusinessAccessLayer.deps.json
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\BusinessAccessLayer\bin\Debug\netstandard2.0\BusinessAccessLayer.dll
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\BusinessAccessLayer\bin\Debug\netstandard2.0\BusinessAccessLayer.pdb
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\BusinessAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\BusinessAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\BusinessAccessLayer\obj\Debug\netstandard2.0\BusinessAccessLayer.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\BusinessAccessLayer\obj\Debug\netstandard2.0\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\BusinessAccessLayer\obj\Debug\netstandard2.0\BusinessAccessLayer.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\BusinessAccessLayer\obj\Debug\netstandard2.0\BusinessAccessLayer.AssemblyInfo.cs
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\BusinessAccessLayer\obj\Debug\netstandard2.0\BusinessAccessLayer.csproj.CopyComplete
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\BusinessAccessLayer\obj\Debug\netstandard2.0\BusinessAccessLayer.dll
+C:\Users\hp\Desktop\IdscProject\EZIcodes\api_core\BusinessAccessLayer\obj\Debug\netstandard2.0\BusinessAccessLayer.pdb
